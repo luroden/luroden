@@ -1,6 +1,6 @@
 ### :wave: Hey there! My name is David!
 
-I'm a DevOps Manager working out of The Colony, TX, USA. I get to play with cool technology all day and work with an awesome team.
+I'm a DevOps Manager working out of Dallas, TX, USA. I get to play with cool technology all day and work with an awesome team.
 
 Pronouns   | Personal Webiste     | Working for
 -----------|----------------------|------------
