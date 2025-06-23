@@ -4,7 +4,7 @@ I'm a technical leader working out of the Dallas/Fort Worth Metroplex in the Uni
 
 Pronouns   | Personal Webiste     | Working for
 -----------|----------------------|------------
-he/him/his | https://leonard.io | https://abcfitness.com
+he/him/his | https://davidleonard.io | https://abcfitness.com
 
 I get to work with an amazing team at ABC Fitness Solutions. We're building super cool stuff over there for our incredible customers and their members. 
 
